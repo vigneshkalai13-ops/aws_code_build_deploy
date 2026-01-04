@@ -2,4 +2,4 @@
 set -e
 
 # Stop the running container (if any)
-echo "Hi hye mate"
+echo "Hi hye mae"
